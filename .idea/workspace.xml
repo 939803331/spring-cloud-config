@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cbdbcad-83c4-4f80-ad26-f29c812d791d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/ph-pro.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ph-test.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ph.yml" />
-      <change beforePath="$PROJECT_DIR$/ph-dev" afterPath="$PROJECT_DIR$/ph-dev.yml" />
-    </list>
+    <list default="true" id="4cbdbcad-83c4-4f80-ad26-f29c812d791d" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -296,12 +291,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564555593211</updated>
-      <workItem from="1564555594718" duration="1070000" />
+      <workItem from="1564555594718" duration="1105000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1070000" />
+    <option name="totallyTimeSpent" value="1105000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
